@@ -7,7 +7,7 @@
     "ChatLanEn"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/chatlanen/dt-teditor.js",
+  "homepage": "https://github.com/chatlanen/dt.teditor.js",
   "ignore": [
     "**/.*",
     "node_modules",

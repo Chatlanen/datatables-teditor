@@ -1,0 +1,19 @@
+{
+  "name": "datatables-teditor",
+  "version": "0.0.0",
+  "description": "DataTables plugin (edit/insert/delete rows)",
+  "main": "dt-teditor.js",
+  "authors": [
+    "ChatLanEn"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/chatlanen/dt-teditor.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "resources/assets/vendor",
+    "test",
+    "tests"
+  ]
+}
